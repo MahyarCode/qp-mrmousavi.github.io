@@ -77,7 +77,7 @@ const PROJECTS: Array<ProjectItemStructure> = [
     contentDuty: 'Full-Stack Developer',
     screenShot: imgNeoQR,
     logo: imgNeoBreedLogo,
-    projectUrl: 'https://aix2.ai/',
+    projectUrl: 'https://neobreed.org/',
     selectedSkills: SKILLS.filter((skill) =>
       [
         'Typescript',
@@ -156,7 +156,7 @@ const PROJECTS: Array<ProjectItemStructure> = [
         'Swagger',
         'PostgreSQL',
         'Solidity',
-        'Unity Game Engine',
+        'Unity GE',
       ].includes(skill.alt),
     ),
   },
@@ -180,16 +180,16 @@ const PROJECTS: Array<ProjectItemStructure> = [
         'Next js',
         'Solidity',
         'Gsap',
-        'Godot Game Engine',
+        'Godot GE',
       ].includes(skill.alt),
     ),
   },
   {
     title: 'QPGaming S.A. - In Game NFT Marketplace',
-    paragraph: 'Main Website of QPoker Project',
+    paragraph: 'Fully Decentralized and User-Friendly NFT Marketplace',
     content:
       'QPoker provides users with in-game NFTs available for purchase across Official General NFT marketplaces. Users can also acquire them using $QMatic through the dedicated In-Game-NFT-Marketplace, offering a seamless space for players to access and purchase NFTs.',
-    contentDuty: 'Front-End Developer',
+    contentDuty: 'Blockchain and Game Developer',
     screenShot: imgQPokerNftMarketPlace,
     logo: imgQPoker,
     projectUrl: '',
@@ -202,7 +202,7 @@ const PROJECTS: Array<ProjectItemStructure> = [
         'Swagger',
         'PostgreSQL',
         'Solidity',
-        'Unity Game Engine',
+        'Unity GE',
       ].includes(skill.alt),
     ),
   },
@@ -249,7 +249,7 @@ const PROJECTS: Array<ProjectItemStructure> = [
   },
   {
     title: 'TalashNet - Exir Yab',
-    paragraph: 'Powerful Online Doctor Reservation',
+    paragraph: 'Online Doctor Reservation',
     content:
       'Introducing ExirYab, a dynamic web application seamlessly integrated with ExirClinic. Patients can effortlessly register accounts to reserve appointments and discover suitable doctors based on community recommendations and revenue. With ExirYab, finding the right healthcare professional has never been easier, streamlining the patient-doctor connection for optimal healthcare experiences.',
     contentDuty: 'Full-Stack Developer',
