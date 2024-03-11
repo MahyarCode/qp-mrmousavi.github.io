@@ -16,7 +16,7 @@ const Right: React.FC = () => {
           />
         </a>
         <a
-          href='https://github.com/QP-MRMousavi'
+          href='https://www.linkedin.com/in/mohammad-reza-mousavi-niya-442879167/'
           target='_blank'
           rel='noopener noreferrer'
         >
