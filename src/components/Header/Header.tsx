@@ -47,7 +47,7 @@ const Header: React.FC = () => {
                   <div className='w-full lg:w-3/12 px-4 lg:order-2 flex justify-center'>
                     <div className='relative'>
                       <img
-                        alt='Mohammad Reza Mousavi Nia'
+                        alt='Seyed Mohammad Reza Mousavi Nia'
                         src={imgMRM}
                         className='shadow-xl rounded-full h-auto align-middle border-none absolute -m-16 -ml-24 '
                         style={{ maxWidth: '180px' }}
@@ -77,7 +77,7 @@ const Header: React.FC = () => {
                   <div className='flex flex-wrap justify-center'>
                     <div className='w-full lg:w-9/12 px-4'>
                       <p className='mb-4 text-lg leading-relaxed text-gray-800 text-justify'>
-                        Experienced and results-driven senior full-stack
+                        Experienced and results-driven full-stack and blockchain
                         developer with a strong background in the Business
                         Administration, and blockchain industries. With over{' '}
                         <b>5 years</b> of hands-on experience, I have a proven
