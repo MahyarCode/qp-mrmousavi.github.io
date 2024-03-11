@@ -47,7 +47,7 @@ const PROJECTS: Array<ProjectItemStructure> = [
   {
     title: 'AIx2 - StratAI',
     paragraph:
-      'Customized plan to unlock the value of AI internally and for portfolio companies',
+      'Customized Plan To Unlock The Value of AI Internally And for Portfolio Companies',
     content:
       "Unlock tailored AI strategies with StratAI from AIx2. Leveraging extensive expertise in strategy consulting and engineering, StratAI delivers precise plans for both fund and portfolio company AI transformations, ensuring strategic success in today's dynamic financial environment.",
     contentDuty: 'Full-Stack Developer',
@@ -71,7 +71,7 @@ const PROJECTS: Array<ProjectItemStructure> = [
   },
   {
     title: 'NeoBreed - NeoQR',
-    paragraph: 'An online qr menu with AI waitress',
+    paragraph: 'An Online QR Menu With AI Waitress',
     content:
       "NeoQR revolutionizes restaurant management with its next-generation cloud services, powered by Amazon Web Services (AWS). Offering unparalleled accessibility and security, our solution ensures seamless operations and real-time insights for restaurants of all sizes. Stay ahead of the competition and optimize your dining experience with NeoQR's cutting-edge technology and unwavering commitment to excellence.",
     contentDuty: 'Full-Stack Developer',
@@ -114,7 +114,7 @@ const PROJECTS: Array<ProjectItemStructure> = [
   },
   {
     title: 'QPGaming S.A. - $QMatic',
-    paragraph: 'An algorithmic ERC20 token',
+    paragraph: 'An Algorithmic ERC20 Token',
     content:
       'QMatic token employs a robust dual locking mechanism, featuring Cliff and Vesting Schedule, ensuring controlled token distribution across Airdrop, Private Sale, and Pre-sale phases prior to public exchange listing.',
     contentDuty: 'Blockchain Developer',
@@ -127,7 +127,7 @@ const PROJECTS: Array<ProjectItemStructure> = [
   },
   {
     title: 'QPGaming S.A. - Algorithmic NFTs',
-    paragraph: 'An algorithmic NFT token collection',
+    paragraph: 'An Algorithmic NFT Token Collection',
     content:
       'QPoker NFT token, an ERC-1155-based algorithmic token, offers community prizes and seamless exchange to QMatic tokens, featuring specific cliff and vesting schedules, accessible through the QPoker Airdrop panel for lucky users.',
     contentDuty: 'Blockchain Developer',
@@ -140,7 +140,7 @@ const PROJECTS: Array<ProjectItemStructure> = [
   },
   {
     title: 'QPGaming S.A. - QPoker Game',
-    paragraph: "A fully decentralized Poker Game with new Guess'em role",
+    paragraph: "A Fully Decentralized Poker Game With New Guess'em Role",
     content:
       "QPoker revolutionizes the traditional Texas Hold'em with Guess'em Poker, a dynamic variant where folded players engage by suggesting hands to active players, enriching the gameplay and generating supplementary revenue for Poker Casinos through innovative rake mechanisms.",
     contentDuty: 'Blockchain and Game Developer',
@@ -162,9 +162,9 @@ const PROJECTS: Array<ProjectItemStructure> = [
   },
   {
     title: 'QPGaming S.A. - Game Web DApp',
-    paragraph: 'Main Website of QPoker project',
+    paragraph: 'Main Website of QPoker Game Center Project',
     content:
-      'QPoker is a proprietary poker game developed by QP Gaming S.A., featuring unique rules and structures owned exclusively by the company. It offers an immersive gambling experience while asserting stringent control over its intellectual property, ensuring that competing operators cannot replicate its gameplay without authorization.',
+      'QPoker offered additional decentralized gambling games built on blockchain, ensuring transparency. Users could engage in various games using QMatic, facilitated by the Developer Gate, providing developers with an opportunity to build their own games on the QMatic platform.',
     contentDuty: 'Blockchain Developer',
     screenShot: imgQPokerGameWebsite,
     logo: imgQPoker,
@@ -186,9 +186,9 @@ const PROJECTS: Array<ProjectItemStructure> = [
   },
   {
     title: 'QPGaming S.A. - In Game NFT Marketplace',
-    paragraph: 'Main Website of QPoker project',
+    paragraph: 'Main Website of QPoker Project',
     content:
-      'QPoker is a proprietary poker game developed by QP Gaming S.A., featuring unique rules and structures owned exclusively by the company. It offers an immersive gambling experience while asserting stringent control over its intellectual property, ensuring that competing operators cannot replicate its gameplay without authorization.',
+      'QPoker provides users with in-game NFTs available for purchase across Official General NFT marketplaces. Users can also acquire them using $QMatic through the dedicated In-Game-NFT-Marketplace, offering a seamless space for players to access and purchase NFTs.',
     contentDuty: 'Front-End Developer',
     screenShot: imgQPokerNftMarketPlace,
     logo: imgQPoker,
@@ -208,7 +208,7 @@ const PROJECTS: Array<ProjectItemStructure> = [
   },
   {
     title: 'QPGaming S.A. - QPoker Airdrop Panel',
-    paragraph: 'A decentralized cutting the edge airdrop panel',
+    paragraph: 'A decentralized Cutting The Edge Airdrop Panel',
     content:
       "In a milestone development, qpoker's marketing team has unleashed a groundbreaking decentralized airdrop panel, setting a new benchmark for transparency and innovation. Utilizing an advanced lottery system, this cutting-edge platform redefines the airdrop landscape, ensuring fairness by monitoring user activity across Telegram and Twitter. Winners are rewarded with coveted Winner tokens, exchangeable for real currency, driving unprecedented engagement. With a staggering online audience of 80,000 users, its launch marks a pivotal moment in digital marketing evolution.",
     contentDuty: 'Full-Stack Developer',
@@ -249,7 +249,7 @@ const PROJECTS: Array<ProjectItemStructure> = [
   },
   {
     title: 'TalashNet - Exir Yab',
-    paragraph: 'Powerful Clinic Management Software',
+    paragraph: 'Powerful Online Doctor Reservation',
     content:
       'Introducing ExirYab, a dynamic web application seamlessly integrated with ExirClinic. Patients can effortlessly register accounts to reserve appointments and discover suitable doctors based on community recommendations and revenue. With ExirYab, finding the right healthcare professional has never been easier, streamlining the patient-doctor connection for optimal healthcare experiences.',
     contentDuty: 'Full-Stack Developer',
